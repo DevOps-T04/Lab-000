@@ -1,0 +1,11 @@
+<div class="card">
+    <h3 class="cardHeader">#######</h3>
+
+    <ul class="socialLinks">
+        <li><a href="#######">facebook link</a></li>
+        <li><a href="#######">instagram link</a></li>
+        <li><a href="#######">github link</a></li>
+    </ul>
+
+    <p class="bio">#######</p>
+</div>
